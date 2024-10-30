@@ -1,0 +1,46 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-10 19:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: maranoia.extended.page.actions.php:30
+msgid "Create new child"
+msgstr ""
+
+#: maranoia.extended.page.actions.php:32
+msgid "Create new sibling"
+msgstr ""
+
+#: maranoia.extended.page.actions.php:49
+msgid "Siblings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Mara Noia Extended Page Actions"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create a sibling or child  and get a list of all the siblings of the current "
+"page. This will make it faster to add and/or edit pages."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://maranoia.dk/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Mara Noia"
+msgstr ""
